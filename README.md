@@ -1,1 +1,1 @@
-# open-api-server
+# 네이버 검색과 파파고 번역을 이용한 API 개발
